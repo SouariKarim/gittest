@@ -7,5 +7,5 @@ this line is from the local causing the conflict
 
  
 
-this line is from github causing the conflict
+this line is from github causing the conflict modyfing this line in the local
 
