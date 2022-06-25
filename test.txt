@@ -6,3 +6,4 @@ add a line in the loccal
 add a line in the local causing a conflict
 
 add a line without conflict
+add a line in the remote without conflict
