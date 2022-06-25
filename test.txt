@@ -1,7 +1,7 @@
 this line is from github modifying this line in the remote
 
 
-this line is from local
+this line is from local modyfing this line from the remote
 
 this line is from the local causing the conflict
 
