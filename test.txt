@@ -5,6 +5,8 @@ hello there from the remote
 
 keeping both changes
 
+adding a line from feat1
+
 adding a line in the local
 
 
