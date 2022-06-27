@@ -1,18 +1,1 @@
-add a line in the local
-add a conflict, hello there from local
-
-hello there from the remote
-
-keeping both changes
-
-adding a line from feat1
-
-adding a line in the local
-
-
-
-
-
-
-
-add conflict line 
+this is the develop branch
