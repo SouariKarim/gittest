@@ -1,9 +1,2 @@
 
-first line from the local
-first line from thee remote
-edit the file in the remote
-add a line in the loccal
-add a line in the local causing a conflict
-
-add a line without conflict
-add a line in the remote without conflict
+adding a line in the local
