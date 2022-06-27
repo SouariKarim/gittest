@@ -1,4 +1,4 @@
-add a conflict line in the remote
+add a conflict, hello there from local
 adding a line in the local
 
 
