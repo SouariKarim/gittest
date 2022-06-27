@@ -1,4 +1,10 @@
+
 add a conflict, hello there from local
+
+hello there from the remote
+
+keeping both changes
+
 adding a line in the local
 
 
