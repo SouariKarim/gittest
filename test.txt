@@ -1,9 +1,13 @@
-
+main prod in changed
 remote develop causing a conflict in hotfix
 
 local develop causing a conflict
 
+
 adding feat2 hello there from remote develop
+
+adding feat2 hello there from remote main
+changes in the same line and keeping both 
 
 adding feat3
 
