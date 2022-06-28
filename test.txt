@@ -1,6 +1,3 @@
-this is the develop branch from the remote this line is changed
+remote develop
 
-
-this is from feat1 deverged from the develop in local
-
-adding a line from the develop
+local develop
