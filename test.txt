@@ -1,7 +1,7 @@
 
 remote develop causing a conflict in hotfix
 
-local develop
+local develop causing a conflict
 
 adding feat2
 
