@@ -3,7 +3,7 @@ remote develop causing a conflict in hotfix
 
 local develop causing a conflict
 
-adding feat2 hello there
+adding feat2 hello there from remote main
 
 adding feat3
 
